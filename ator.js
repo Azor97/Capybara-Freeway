@@ -37,7 +37,6 @@ function verificaColisao() {
         if (colisao) {
             voltaAtor();
             meusPontos--;
-            somDaColisao;
         }
     }
 }
@@ -56,7 +55,6 @@ function marcaPonto() {
     if (yAtor < 15) {
         meusPontos++;
         voltaAtor();
-        somDoPonto;
     }
 };
 
