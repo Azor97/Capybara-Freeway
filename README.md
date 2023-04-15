@@ -1,4 +1,4 @@
 # Capybara-Freeway
  Jogo Freeway!
 
-<img src="/imagens/favicon.ico">
+<img src="/imagens/GIF.gif">
